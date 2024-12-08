@@ -29,9 +29,15 @@ int main() {
 ```python
 my_var = "Hello, world!"
 ```
-
+- [ ] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
+- [ ] start working on projects
+- [ ] collaborate with many people
+      
 
 
 added headings (1,2,6) along with bold,italic and a combination of both 
 added an image with alt text
 added codeblocks
+added list
